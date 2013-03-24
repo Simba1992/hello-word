@@ -1,0 +1,311 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.16)  17 MAR 2013 15:05
+entering extended mode
+**./hello.tex
+(E:\code\hello.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\soft\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(E:\soft\CTEX\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\CJK.sty
+Package: CJK 2008/12/29 4.8.2
+
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
+Package: MULEenc 2008/12/29 4.8.2
+)
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\CJK.enc
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box26
+)
+(E:\soft\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(E:\soft\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(E:\soft\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\soft\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(E:\soft\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+(E:\soft\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(E:\soft\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(E:\soft\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(E:\soft\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(E:\soft\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(E:\soft\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
+No file hello.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+(E:\soft\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen111
+\scratchbox=\box27
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen112
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\standard.bdg
+File: standard.bdg 2008/12/29 4.8.2
+)
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\extended.enc
+File: extended.enc 2008/12/29 4.8.2
+)
+(E:\soft\CTEX\MiKTeX\tex\latex\cjk\extended.chr
+File: extended.chr 2008/12/29 4.8.2
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    Try loading font information for C19+song on input line 18.
+
+
+(E:\soft\CTEX\CTeX\tex\latex\CJK\GB\c19song.fd
+File: c19song.fd 2009/09/23 4.8.2
+)
+Overfull \hbox (15.4025pt too wide) in paragraph at lines 19--21
+  \C19/song/m/n/17.28/51 8 \C19/song/m/n/17.28/53 c \C19/song/m/n/17.28/40 \OT
+1/cmr/m/n/17.28 LaTeX\C19/song/m/n/17.28/61 Æ \C19/song/m/n/17.28/46 ≤ \C19/son
+g/m/n/17.28/64 | \C19/song/m/n/17.28/38 ± \C19/song/m/n/17.28/64 • \C19/song/m/
+n/17.28/58 © \C19/song/m/n/17.28/49 
+ \C19/song/m/n/17.28/26 ú \C19/song/m/n/17.28/37 ÿ \C19/song/m/n/17.28/43 L \C1
+9/song/m/n/17.28/26 ß \C19/song/m/n/17.28/53 û \C19/song/m/n/17.28/45 P \C19/so
+ng/m/n/17.28/40  \C19/song/m/n/17.28/63 3\OT1/cmr/m/n/17.28 notepad++\C19/song
+/m/n/17.28/48 p
+ []
+
+
+Overfull \hbox (17.49973pt too wide) in paragraph at lines 32--33
+\C19/song/m/n/17.28/39 d \C19/song/m/n/17.28/44 Æ \C19/song/m/n/17.28/37 ? \C19
+/song/m/n/17.28/52 Ï \C19/song/m/n/17.28/61 è \C19/song/m/n/17.28/55 ¥ \C19/son
+g/m/n/17.28/37 7 \C19/song/m/n/17.28/61 á \C19/song/m/n/17.28/40  \C19/song/bx
+/n/17.28/26 ß \C19/song/m/n/17.28/63 ˘ \C19/song/m/n/17.28/48 p \C19/song/bx/n/
+17.28/58 ∑ \C19/song/m/n/17.28/50 Ç \C19/song/bx/n/17.28/45 Ú \C19/song/bx/n/17
+.28/62 ^[]\OT1/cmr/m/n/17.28 NASM\C19/song/bx/n/17.28/26 £\OT1/cmr/m/n/17.28 Ne
+twideAsmbler\C19/song/bx/n/17.28/26 §[]\C19/song/m/n/17.28/25 " 
+ []
+
+[1
+
+{E:/soft/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+Overfull \hbox (7.74063pt too wide) in paragraph at lines 34--35
+[]\C19/song/bx/n/17.28/58 © \C19/song/m/n/17.28/40   \C19/song/m/n/17.28/55 ÷
+ \C19/song/m/n/17.28/60  \C19/song/m/n/17.28/61 è \C19/song/m/n/17.28/55 ¥ \C1
+9/song/m/n/17.28/37 7 \C19/song/m/n/17.28/61 á \C19/song/m/n/17.28/40  \C19/so
+ng/bx/n/17.28/26 ß \C19/song/bx/n/17.28/58 ∑ \C19/song/m/n/17.28/50 Ç \C19/song
+/m/n/17.28/55 ¶ \C19/song/bx/n/17.28/62 ^ \C19/song/m/n/17.28/40  \C19/song/m/
+n/17.28/55 ¥[]\OT1/cmr/m/n/17.28 L[]T[]X[]\C19/song/m/n/17.28/25 " \C19/song/m/
+n/17.28/52 Ÿ \C19/song/m/n/17.28/55 ¢ \C19/song/bx/n/17.28/26 ß\OT1/cmr/m/n/17.
+28 Cell\C19/song/bx/n/17.28/59 y
+ []
+
+[2] (E:\code\hello.aux) ) 
+Here is how much of TeX's memory you used:
+ 2912 strings out of 495354
+ 37850 string characters out of 3183579
+ 99435 words of memory out of 3000000
+ 6062 multiletter control sequences out of 15000+200000
+ 17380 words of font info for 60 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 25i,6n,28p,219b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><
+E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/tr
+uetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
+<E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/t
+ruetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
+><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/
+truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
+f><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts
+/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.t
+tf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/font
+s/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.
+ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fon
+ts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun
+.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fo
+nts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsu
+n.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/f
+onts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/sims
+un.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/
+fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/sim
+sun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX
+/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/si
+msun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTe
+X/fonts/truetype/chinese/simsun.ttf><E:/soft/CTEX/CTeX/fonts/truetype/chinese/s
+imsun.ttf><E:/soft/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/so
+ft/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/soft/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on hello.pdf (2 pages, 159548 bytes).
+PDF statistics:
+ 157 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
