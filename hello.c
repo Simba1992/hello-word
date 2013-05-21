@@ -8,4 +8,5 @@ int main ()
 	
 	
 	printf ("...");
+	printf ("lalalala\n");
 }
