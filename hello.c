@@ -1,5 +1,4 @@
 #include <stdio.h>
-//test
 //add test
 int main ()
 {
